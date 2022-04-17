@@ -81,3 +81,11 @@ Connection: close
 
 [2022-04-16 20:08:32,406: INFO: stage_00_template]: >>>>> stage STAGE_NAME completed!<<<<<
 
+[2022-04-17 12:10:57,780: INFO: stage_00_template]: 
+********************
+[2022-04-17 12:10:57,781: INFO: stage_00_template]: >>>>> stage STAGE_NAME started <<<<<
+[2022-04-17 12:10:57,785: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-04-17 12:10:57,787: INFO: common]: created directory at: data
+[2022-04-17 12:10:57,787: INFO: stage_00_template]: filename:data.zip already present
+[2022-04-17 12:10:57,788: INFO: stage_00_template]: >>>>> stage STAGE_NAME completed!<<<<<
+
