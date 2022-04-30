@@ -8,3 +8,10 @@
 [2022-04-20 22:19:35,092: INFO: common]: created directory at: data\bad_data
 [2022-04-20 22:20:44,055: INFO: stage_01_get_data]: >>>>> stage GET_DATA completed!<<<<<
 
+[2022-04-30 16:51:14,201: INFO: stage_00_template]: 
+********************
+[2022-04-30 16:51:14,202: INFO: stage_00_template]: >>>>> stage TEMPLATE started <<<<<
+[2022-04-30 16:51:14,208: INFO: common]: yaml file: configs/config.yaml loaded successfully
+[2022-04-30 16:51:14,216: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-04-30 16:51:14,216: INFO: stage_00_template]: >>>>> stage TEMPLATE completed!<<<<<
+

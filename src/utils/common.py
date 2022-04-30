@@ -20,6 +20,7 @@ def create_directories(path_to_directories: list) -> None:
         print(f"creating directory: {path}")
         os.makedirs(path, exist_ok=True)
         logging.info(f"created directory at: {path}")
+        
 
 
 def save_json(path: str, data: dict) -> None:
